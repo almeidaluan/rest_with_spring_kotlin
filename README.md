@@ -10,7 +10,8 @@
 - Upload de Arquivo.
 - Multiplo Uploads de Arquivos.
 - Download de Arquivo.
-
+- CORS Global
+- OpenAPI Swagger
 ## Tech
 
 Tecnologia e Patterns utilizados:
